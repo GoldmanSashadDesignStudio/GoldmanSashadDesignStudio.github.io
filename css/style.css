@@ -1,0 +1,75 @@
+.signDowny {
+    color:#7acec3;
+}
+
+.signAtomicTangerine {
+    color:#ff9b6d;
+}
+
+.signWhite {
+    color:#ffffff;
+}
+
+.blockCatskillWhite {
+    background-color:#e5e9df;
+}
+
+.blockDowny {
+    background-color:#7acec3;
+}
+
+.blockTulipTree {
+    background-color:#ebb240;
+}
+
+.blockPearlLusta {
+    background-color:#edeae2;
+}
+
+.blockLynch {
+    background-color: #6d7b87;
+}
+
+.blockBlackSqueeze {
+    background-color:#dfe0d9;
+}
+
+.blockLightGrey{
+    background-color:#cecece;
+}
+
+.blockAtomicTangerine {
+    background-color:#ff9b6d;
+}
+
+.blockSugarCane {
+    background-color:#eaeae2;
+}
+
+.blockTeaGreen {
+    background-color:#d4edbf;
+}
+
+.blockGainsboro {
+    background-color:#dddddd;
+}
+
+a > i:hover,
+a > i:focus {
+    color:#ff9b6d;
+}
+
+.blockTulipTree > .row > .signWhite > a:hover,
+.blockTulipTree > .row > .signWhite > a:focus {
+    color:#343a40;
+}
+
+.faAtomicTangerine > a > i:hover,
+.faAtomicTangerine > a > i:focus {
+    color:#7acec3;
+}
+
+.fa-heart-o:hover,
+.fa-heart-o:focus {
+    color:#dc3545;
+}
